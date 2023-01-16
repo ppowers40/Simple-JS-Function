@@ -1,6 +1,6 @@
 function greet(name, height, country) {
-    console.log('Hello ' + name + ' ' + height + ' ' + country);
-    
+    alert('Hello ' + name + ' ' + height + ' ' + country);
+
 }
 
 
